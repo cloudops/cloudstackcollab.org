@@ -25,3 +25,5 @@ theme = "hugo-creative-theme"
   # The path must be relative to the static folder
   favicon = "favicon.ico"
 
+  # Google Analytics.
+  googleAnalytics = "UA-76311553-1"
