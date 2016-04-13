@@ -512,3 +512,13 @@ body {
 .bg-primary a.btn {
     color:#222;
 }
+
+.header-content img {
+    width:90%;
+}
+.header-content .details {
+    color:white !important;
+    margin-top:-20px !important;
+    font-weight:bold !important;
+    font-size:150% !important;
+}
